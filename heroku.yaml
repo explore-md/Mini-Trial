@@ -1,0 +1,2 @@
+web: node index.js
+release: echo "🚀 Explore MD V4 deploying..." && node -e "console.log('Pre-release tasks complete')"
